@@ -237,6 +237,6 @@
                 array[counter] = nextVal;
 
             }
-            return array;//НЕ СМОГ РЕШИТЬ!!!!!!!!!!!!!!!!!
+            return array;//НЕ СМОГ РЕШИТЬ!!!!!!!!!!!!!!!!!!!
         }
     }
